@@ -1,0 +1,21 @@
+# theme: jekyll-theme-slate
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+plugins:
+  - jekyll-remote-theme
+
+title: SounDoer
+description: [xichen.soundoer.com]
+url: "https://xichen.soundoer.com"
+baseurl: ""
+
+color_scheme: dark
+
+search_enabled: false
+
+exclude:
+  - private
+
+nav_external_links:
+  - title: Game Audio Design
+    url: https://gad.soundoer.com/
+    opens_in_new_tab: true
